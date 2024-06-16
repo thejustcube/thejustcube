@@ -10,8 +10,8 @@ I take part in "Stack Programming Community". (details is [here](https://github.
 And I make "Whistle Mod". (details is [here](https://modrinth.com/mod/whistle))<br>
 The repository is [UECYukkuriProject/WhistleMod](https://github.com/UECYukkuriProject/WhistleMod)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rensatopc
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejustcube
 )](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rensatopc)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=rensatopc)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejustcube)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thejustcube)](https://github.com/ryo-ma/github-profile-trophy)
 
