@@ -1,9 +1,3 @@
-`person that something is great...`
-
----
-
-# Hello everyone!
-
 I'm "rensatopc". and I like programming and do anything.<br>
 I take part in "Stack Programming Community". (details is [here](https://github.com/stack-community))
 
